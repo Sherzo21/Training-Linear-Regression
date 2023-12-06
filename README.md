@@ -57,5 +57,3 @@ The R-squared value, a measure of the model's explanatory power, is close to zer
 Impact of Data Cleaning:
 The dataset underwent a significant reduction in size during the cleaning process, from (36547, 7) to (12016, 7). This reduction highlights the presence of missing values in a substantial portion of the original dataset. The decision to remove rows with missing values was made to ensure a cleaner and more manageable dataset for modeling.
 
-![image](https://github.com/Sherzo21/Training-Linear-Regression/assets/98465904/af378c5b-a441-4eea-a574-615fdd9107d4)
-
